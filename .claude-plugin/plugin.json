@@ -1,0 +1,10 @@
+{
+  "name": "gemini-subagent",
+  "description": "Use Gemini CLI as a local subagent for Claude Code — delegate code generation, file analysis, document reading, and boilerplate tasks to save tokens and context window",
+  "version": "1.0.0",
+  "author": {
+    "name": "lyssten"
+  },
+  "license": "MIT",
+  "keywords": ["gemini", "subagent", "delegation", "token-saving", "gemini-cli"]
+}
